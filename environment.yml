@@ -1,0 +1,10 @@
+name: streamlit
+channels:
+  - anaconda
+  - defaults
+dependencies:
+  - python
+  - pip
+  - pip:
+    - streamlit
+    - fredapi
